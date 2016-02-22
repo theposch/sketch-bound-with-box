@@ -1,5 +1,5 @@
 {
-  "author" : "Lewis Howles",
+  "author" : "",
   "commands" : [
     {
       "script" : "script.cocoascript",
@@ -13,12 +13,12 @@
     "items" : [
       "boundwithbox"
     ],
-    "title" : "Bound with Box"
+    "title" : "Bound with Box (Ryan Edit)"
   },
   "identifier" : "com.example.sketch.03e9d746-4b3c-472e-8e6b-706fc5c3a46d",
-  "version" : 1.2,
-  "compatibleVersion": 3,
-  "description" : "This plugin takes the selected layer(s) and draws a rectangle around them.",
+  "version" : 1.1,
+  "compatibleVersion": 3.3,
+  "description" : "This plugin takes the selected layer(s) and draws a rectangle with the same size and position",
   "authorEmail" : "",
   "name" : "Sketch Bound with Box"
 }
